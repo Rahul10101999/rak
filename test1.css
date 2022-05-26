@@ -1,0 +1,15 @@
+.tnt{
+  width: 600px;
+  height: 600px;
+
+  margin: 0 auto;
+  position: absolute;
+  left: 450px;
+
+
+}
+
+.rdx{
+  background-color: grey;
+  position: relative;
+}
